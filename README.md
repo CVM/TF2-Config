@@ -10,4 +10,4 @@ In addition to the basic config in this repository, I also install further addon
   - Demo recording - [Pov-Record (PREC)][2]
 
 [1]: http://www.sdx-gaming.eu/
-[2]: http://orangad.com.ua/
+[2]: http://etf2l.org/files/p-rec.rar
